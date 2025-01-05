@@ -113,7 +113,7 @@ qmk compile -kb keychron/q2_max/ansi_encoder -km via
 6. 키보드가 정상적으로 동작하는지 확인한다.
 7. VIA를 통해 설정을 확인한다.
 
-![VIA 설정](./via.png)
+![VIA 설정](./assets/via.png)
 
 ## Reference
 
