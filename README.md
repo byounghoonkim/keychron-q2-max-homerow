@@ -105,8 +105,8 @@ qmk compile -kb keychron/q2_max/ansi_encoder -km via
 ## Firmware 적용하기
 빌드한 firmware를 아래와 같은 순서로 적용한다.
 
-1. [QMK Toolbox](https://qmk.fm/toolbox))를 실행한다. 
-2. - [키크론 Q2 Max 펌웨어 업데이트 & 다운로드 (공장 초기화 방법 안내)](https://keychron.kr/firmware/?vid=118) 문서를 참고하여 키크론 Q2 Max 키보드를 DFU 모드로 변경한다.
+1. [QMK Toolbox](https://qmk.fm/toolbox)를 실행한다. 
+2. [키크론 Q2 Max 펌웨어 업데이트 & 다운로드 (공장 초기화 방법 안내)](https://keychron.kr/firmware/?vid=118) 문서를 참고하여 키크론 Q2 Max 키보드를 DFU 모드로 변경한다.
 3. `Open` 버튼을 클릭하여 빌드한 펌웨어 파일을 선택한다.
 4. `Flash` 버튼을 클릭하여 펌웨어를 적용한다.
 5. 펌웨어 적용이 완료되면 키보드를 재부팅한다.
